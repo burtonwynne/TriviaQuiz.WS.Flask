@@ -1,0 +1,11 @@
+{ 
+	'id' : 1,
+	'name' : 'test',
+	'questions': [
+		{'question': 'How many people are here?', 'choices': ['under 24', 'over 24', 'exactly 24 ;)', 'unknown1'], 'correctAnswer': 3},
+		{'question': 'How old are you?', 'choices': ['under 24', 'over 24', 'exactly 24 ;)', 'unknown2'], 'correctAnswer': 3},
+		{'question': 'How many beers did you drink?', 'choices': ['under 24', 'over 24', 'exactly 24 ;)', 'unknown3'], 'correctAnswer': 3},
+		{'question': 'What is your IQ?', 'choices': ['under 24', 'over 24', 'exactly 24 ;)', 'unknown4'], 'correctAnswer': 3},
+		{'question': 'How far did you drive?', 'choices': ['under 24', 'over 24', 'exactly 24 ;)', 'unknown5'], 'correctAnswer': 3}
+	]
+}
